@@ -25,7 +25,7 @@ main {
 }
 
 p {
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(245, 245, 245, 0.75);
 }
 
 #pTop {
@@ -45,17 +45,14 @@ h1 {
 input, button {
     width: 75vw;
     max-width: 550px;
-    height: 20px;
-    padding: 30px 30px;
+    padding: 38px 30px;
     margin-bottom: 20px;
     font-size: 1em;
     border: none;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
-    cursor: pointer;
 }
 
 button {
-    padding-bottom: 60px;
     background-color: black;
     color: whitesmoke;
     font-size: 1.4em;
@@ -63,7 +60,7 @@ button {
 }
 
 button:active {
-    transform: translateY(2px);
+    transform: translateY(3px);
 }
 
 #pBottom {
