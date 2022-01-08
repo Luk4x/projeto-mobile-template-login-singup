@@ -4,11 +4,11 @@
     margin: 0;
     padding: 0;
     outline: none;
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
     background-color: rgb(30, 30, 30);
-    font-family: 'Poppins', sans-serif;
 }
 
 main {
@@ -45,15 +45,16 @@ input, button {
     width: 75vw;
     max-width: 550px;
     height: 20px;
-    padding: 20px 30px;
+    padding: 30px 30px;
     margin-bottom: 20px;
     font-size: 1em;
     border: none;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
 }
 
 button {
-    padding-bottom: 40px;
+    padding-bottom: 60px;
     background-color: black;
     color: whitesmoke;
     font-size: 1.4em;
