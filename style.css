@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,500;1,200;1,500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body {
+    background-color: rgb(30, 30, 30);
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    color: whitesmoke;
+    height: 100vh;
+    width: 100vw;
+    max-width: 800px;
+    background-image: linear-gradient(#0F0C29, #302B63, #24243E);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+p {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+#pTop {
+    margin-top: 50px;
+    margin-bottom: 200px;
+    font-weight: bold;
+    font-size: 1.3em;
+}
+
+h1 {
+    font-size: 2.5em;
+    letter-spacing: -0.3px;
+    margin-bottom: 35px;
+    text-transform: uppercase;
+}
+
+input, button {
+    width: 75vw;
+    max-width: 550px;
+    height: 20px;
+    padding: 20px 30px;
+    margin-bottom: 20px;
+    font-size: 1em;
+    border: none;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+}
+
+button {
+    padding-bottom: 40px;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+button:active {
+    transform: translateY(2px);
+}
+
+#pBottom {
+    font-size: 0.85em;
+    margin-top: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a::after {
+    content: ' \2198'
+}
+
+a:active {
+    text-decoration: underline;
+}
