@@ -17,6 +17,7 @@ main {
     width: 100vw;
     max-width: 800px;
     background-image: linear-gradient(#0F0C29, #302B63, #24243E);
+    background-attachment: fixed;
     display: flex;
     flex-direction: column;
     align-items: center;
