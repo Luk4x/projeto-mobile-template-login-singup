@@ -1,12 +1,12 @@
 <h1>Mobile/Desktop Account LogIn/SignUp Interface</h1>
 
 ## About
-<p>LogIn/SignUp interface using HTML5 and CSS3/p>
+LogIn/SignUp interface using HTML5 and CSS3
 
 ## Result
 <img src="./result/result1.png" alt="challenge-result">
 <img src="./result/result2.png" alt="challenge-result">
-  Access the project <a href="https://luk4x.github.io/projeto-mobile-template-login-singup/">HERE</a>
+Access the project <a href="https://luk4x.github.io/projeto-mobile-template-login-singup/">HERE</a>
 
 ## 🤝 Contributors Linkedin
 <table>
