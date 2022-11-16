@@ -1,14 +1,47 @@
-<h1>Mobile/Desktop Account LogIn/SignUp Interface</h1>
+<table align="right">
+  <tr>
+    <td>
+      <a href="readme-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
+<br>
 
-## About
-LogIn/SignUp interface using HTML5 and CSS3
+# 🔓 LogIn/SignUp Interface
 
-## Result
-<img src="./result/result1.png" alt="challenge-result">
 <img src="./result/result2.png" alt="challenge-result">
-Access the project <a href="https://luk4x.github.io/projeto-mobile-template-login-singup/">HERE</a>
+<img src="./result/result1.png" alt="challenge-result">
 
-## 🤝 Contributors Linkedin
+> Acesse o projeto online **[AQUI](https://luk4x.github.io/projeto-mobile-template-login-singup/)**
+
+## 📝 Sobre
+
+Interface de Login e SignUp responsiva, desenvolvida com HTML e CSS.
+
+## 📖 Clonando o Projeto
+
+Para clonar e executar este projeto em seu computador, você precisará apenas que o [Git](https://git-scm.com/) esteja previamente instalado.<br>
+Feito isso, no terminal:
+
+```bash
+# Clone esse repositório com:
+> git clone https://github.com/Luk4x/projeto-mobile-template-login-singup.git
+
+# Entre no repositório com:
+> cd projeto-mobile-template-login-singup
+
+# Execute o projeto com:
+> start index.html # Para usuários de Windows
+> open index.html # Para usuários de Linux/Mac
+```
+
+## 🤝 Contato dos Contribuintes
+
 <table>
   <tr>
     <td align="center">
